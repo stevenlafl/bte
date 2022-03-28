@@ -1,0 +1,3 @@
+FROM stevenlafl/test-tools:latest
+
+RUN apt-get install -y default-jre xpra
